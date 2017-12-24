@@ -5,7 +5,5 @@
 
 > Nice to meet you ：）
 
-[Down for  Android](down/app-release.apk)
 
-
-<!-- <a href="http://www.w3school.com.cn/i/w3school_logo_white.gif" download="w3logo">下载</a> -->
+<a  style="display:block;width:100px;height:40px;bacoground:'green';text-align:center" href="http://www.w3school.com.cn/i/w3school_logo_white.gif" download="w3logo">[Down for  Android]</a>
