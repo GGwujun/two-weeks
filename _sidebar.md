@@ -3,7 +3,7 @@
   - [Android 版](more-pages.md)
 
 - 通知
-  - [iOS v1.3 发布啦](notifications/2017-06-12.md)
+  - [android v1.0 发布啦](notifications/2017-06-12.md)
 
 - 活动
 

@@ -1,6 +1,6 @@
 ![logo](_media/icon.png)
 
-# 2 Life <small>1.3.0</small>
+# two  week <small>1.0.0</small>
 
 > Nice to meet you ：）
 
@@ -8,5 +8,5 @@
 - Share your diary with the opposite sex
 - Find your other half
 
-[GitHub](https://github.com/airingursb/two-life)
+[GitHub](https://github.com/GGwujun/two-weeks.git)
 [Get Started](#docsify)
