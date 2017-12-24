@@ -6,4 +6,4 @@
 > Nice to meet you ：）
 
 
-<a  style="display:block;width:100px;height:40px;bacoground:'green';text-align:center" href="http://www.w3school.com.cn/i/w3school_logo_white.gif" download="w3logo">[Down for  Android]</a>
+<a  style="display: block;width: 250px;height: 50px;text-align: center;background: #42b983;list-style: none;color: #ffffff;text-decoration: none;line-height: 50px;margin-bottom: 50px;" href="http://www.w3school.com.cn/i/w3school_logo_white.gif" download="w3logo">[Down for  Android]</a>
