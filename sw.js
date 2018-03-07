@@ -5,6 +5,8 @@
  * Licensed under Apache 2.0
  * Register service worker.
  * ========================================================== */
+ 
+ 
 
 const RUNTIME = 'docsify'
 const HOSTNAME_WHITELIST = [
